@@ -1,0 +1,11 @@
+{
+  "login_valido":{
+    "email":"standard_user",
+    "senha":"secret_sauce"
+  },
+  "login_invalido":{
+    "email":"error_user",
+    "senha":"secret_sauce"
+    
+    }
+  }
